@@ -1,54 +1,61 @@
-### 👋 Olá! Eu sou Rodrigo Mesquita
+# 🎬 Em um mundo movido por dados...
 
-🎓 Graduando em Administração • 🧠 Estudante de Ciência de Dados (EBAC)  
-📊 Foco em análise de dados com base sólida em negócios  
-📍 Em transição para o mundo de dados com estratégia e consistência
-
----
-
-### 🚀 Atualmente estudando e desenvolvendo habilidades em:
-
-- **Python** para análise de dados
-- **Git & GitHub** (controle de versões e colaboração)
-- **Manipulação de dados com Pandas**
-- **Visualização com Matplotlib e Seaborn**
-- **Consultas em bancos de dados com SQL**
-- **Business Intelligence com Power BI** *(curso exclusivo em andamento)*
+> Uma mente analítica, moldada pela Administração.  
+> Pronto para enfrentar o caos dos dados com estratégia e consistência.  
+> Com um só propósito: **evoluirmos juntos, entregando resultado**.
 
 ---
 
-### 💡 Diferenciais
+### 👤 Apresentando: Rodrigo Mesquita
 
-- Visão analítica aliada à experiência em Administração
-- Foco em projetos que geram insights acionáveis para negócios
-- Interesse por soluções de dados aplicadas ao mundo real corporativo
-
----
-
-### 📈 Em breve você verá aqui:
-
-- 📊 Dashboards de vendas e marketing (Power BI + Python)
-- 📉 Estudos de caso com bancos de dados reais
-- 🤖 Modelos básicos de Machine Learning (Scikit-learn)
-- 📁 Projetos de análise exploratória com dados públicos
+Graduando em **Administração**, atualmente em missão para se tornar um **Cientista de Dados completo**.  
+Treinado pela **EBAC**, e armado com ferramentas como **Python**, **SQL** e **Power BI**, ele se prepara para transformar números em decisões.
 
 ---
 
-### 🧰 Tecnologias em uso
+### 🎯 Objetivo:
+Construir projetos que unem **estratégia de negócios** com **inteligência analítica**.  
+Desvendar padrões, prever o imprevisível, e entregar insights que realmente movem empresas.
+
+---
+
+### 🧠 Treinamentos em andamento:
+
+- 🐍 Domínio de **Python** para análise
+- 🗃️ Exploração de dados com **Pandas**
+- 📊 Visualizações com **Matplotlib** e **Seaborn**
+- 🧮 Modelos iniciais de Machine Learning com **Scikit-learn**
+- 💡 **Business Intelligence com Power BI**
+- 🧠 Raciocínio analítico + visão de negócios
+
+---
+
+### 🛠️ Arsenal Tecnológico
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
 
 ---
 
-### 📫 Entre em contato
+### 🎥 Próximos capítulos:
 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+- 📈 Dashboards interativos em Power BI
+- 🔍 Análises exploratórias de dados públicos
+- 🤖 Primeiros modelos de previsão com Scikit-learn
+- 🧩 Estudos de caso com dados reais do mercado
 
 ---
+
+### 📬 Fale com o protagonista
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rodrigo.ms.099@gmail.com)
+
+
+---
+
+> *"Toda história começa com um passo. Este é o meu."*  
+> — Rodrigo Mesquita
 
