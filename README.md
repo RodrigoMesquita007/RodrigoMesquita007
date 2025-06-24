@@ -1,6 +1,6 @@
 # 🎬 Em um mundo movido por dados...
 
-> Uma mente analítica, moldada pela Administração.  
+> Uma mente analítica, moldada pela formação em Administração.  
 > Pronto para enfrentar o caos dos dados com estratégia e consistência.  
 > Com um só propósito: **evoluirmos juntos, entregando resultado**.
 
@@ -8,14 +8,14 @@
 
 ### 👤 Apresentando: Rodrigo Mesquita
 
-Graduando em **Administração**, atualmente em missão para se tornar um **Cientista de Dados completo**.  
-Treinado pela **EBAC**, e armado com ferramentas como **Python**, **SQL** e **Power BI**, ele se prepara para transformar números em decisões.
+Formado em **Administração**, atualmente em preparação profissional para atuar como **Cientista de Dados**.  
+Estudando pela **EBAC** e ampliando sua bagagem com ferramentas como **Python**, **SQL**, e **Power BI**, para transformar dados em decisões que movem negócios.
 
 ---
 
 ### 🎯 Objetivo:
-Construir projetos que unem **estratégia de negócios** com **inteligência analítica**.  
-Desvendar padrões, prever o imprevisível, e entregar insights que realmente movem empresas.
+Construir projetos que conectem **visão de negócios** com **inteligência analítica**.  
+Descobrir padrões, prever o imprevisível e entregar **insights estratégicos**.
 
 ---
 
@@ -26,7 +26,7 @@ Desvendar padrões, prever o imprevisível, e entregar insights que realmente mo
 - 📊 Visualizações com **Matplotlib** e **Seaborn**
 - 🧮 Modelos iniciais de Machine Learning com **Scikit-learn**
 - 💡 **Business Intelligence com Power BI**
-- 🧠 Raciocínio analítico + visão de negócios
+- 🧠 Raciocínio analítico + pensamento estratégico
 
 ---
 
@@ -53,9 +53,9 @@ Desvendar padrões, prever o imprevisível, e entregar insights que realmente mo
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rodrigo.ms.099@gmail.com)
 
-
 ---
 
 > *"Toda história começa com um passo. Este é o meu."*  
 > — Rodrigo Mesquita
+
 
